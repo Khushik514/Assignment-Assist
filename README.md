@@ -1,4 +1,4 @@
-# Assisgnment-Assist
+# Assignment-Assist
 Built to help student with assignments. A python based system that asks your query and its type(Wikipedia, Wolfram Alpha or Online Search) and returns the result. An option of text-to-speech is also provided. 
 ### Before using please install the following python libraries-
 ```PySimpleGUI```
